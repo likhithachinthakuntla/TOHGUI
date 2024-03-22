@@ -14,7 +14,7 @@ solve(int disks, int from, int to, int spare)
         }
 }
 
-Commands:
+Commands:<br>
 compile: javac TOHGUI.java<br>
 run : appletviewer TOHGUI.java
 
